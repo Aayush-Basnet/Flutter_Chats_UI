@@ -3,4 +3,4 @@
 
 ### HomeScreen
 
-![alt text](https://github.com/Aayush-Basnet/Flutter_Chats_UI/blob/0b80d9992e2352f3c3475d56fcc7265bf6fe6bd4/Chat_ui/mainpage.png)
+![alt text](https://github.com/Aayush-Basnet/Flutter_Chats_UI/blob/cb395ecfee6f6a1e02102633d1b0ffd2a1996a38/Chat_ui/HomeScreen.jpg)
